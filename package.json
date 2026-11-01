@@ -1,0 +1,10 @@
+{
+  "name": "sbtv20",
+  "version": "20.0.0",
+  "description": "SBTV20",
+  "packageType": "app",
+  "appName": "SBTV20",
+  "appPath": "app/p20.html",
+  "serviceFile": "c20.js",
+  "keys": []
+}
